@@ -1,3 +1,4 @@
 ﻿using GuestBook;
 
-Book.GuestList();
+BookLogic.WelcomeGroup();
+BookLogic.PartyGuestsList();
